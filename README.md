@@ -1,10 +1,20 @@
-# authentication_methods_with_flutter_and_firebase
+# Authentication methods with Flutter and Firebase
 
 A new Flutter project.
 
+## Sign in methods done
+
+*Email and Password
+*Google
+*Facebook
+*Twitter
+*Apple
+*Github
+\*Game Center
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with authentication methods:
 
 A few resources to get you started if this is your first Flutter project:
 
