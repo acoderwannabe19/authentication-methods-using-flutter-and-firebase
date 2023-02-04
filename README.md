@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Sign in methods done
 
-*Email and Password
-*Google
-*Facebook
-*Twitter
-*Apple
-*Github
-\*Game Center
+*Email and Password<br />
+*Google<br />
+*Facebook<br />
+*Twitter<br />
+*Apple<br />
+*Github<br />
+\*Game Center<br />
 
 ## Getting Started
 
