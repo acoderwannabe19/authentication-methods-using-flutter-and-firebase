@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828563874169",
+    "project_id": "git-repo-c0267",
+    "storage_bucket": "git-repo-c0267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828563874169:android:bafd8d0b0b98c4fa9a8fa8",
+        "android_client_info": {
+          "package_name": "com.example.authentication_methods_with_flutter_and_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828563874169-jqjg0eik824nq8i1pe1ft5v9ebtetcbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication_methods_with_flutter_and_firebase",
+            "certificate_hash": "90d6e1348f1f26e72eb44d3ece5dfac6eb47197f"
+          }
+        },
+        {
+          "client_id": "828563874169-7acaqqnaj53n242gpf99rrh0relmt512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCui5Zg-GhmVci0OFsFY6COS10SOvIVF84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828563874169-7acaqqnaj53n242gpf99rrh0relmt512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
