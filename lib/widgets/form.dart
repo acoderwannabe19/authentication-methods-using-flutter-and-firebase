@@ -379,6 +379,7 @@ class _AuthFormState extends State<AuthForm> {
                             child: ElevatedButton(
                               onPressed: () {
                                 signInWithFacebook().then((result) {
+                                  // ignore: unnecessary_null_comparison
                                   if (result != null) {
                                     Navigator.of(context).push(
                                       MaterialPageRoute(
